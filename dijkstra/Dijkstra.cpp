@@ -5,7 +5,6 @@
 #define CYAN    "\033[36m"
 
 using namespace std;
-
 const int INF = INT_MAX;
 
 void floydWarshall(vector<vector<int>> &dist) {
@@ -21,7 +20,6 @@ void floydWarshall(vector<vector<int>> &dist) {
         }
     }
 }
-
 int main(int argc, char **argv) {
     int init = 0, arq_in = 0, arq_out = 0;
     bool set_arq = false, set_init = false, output = false;
@@ -32,7 +30,6 @@ int main(int argc, char **argv) {
             set_arq = true;
             arq_in = i + 1;
         }
-
         if (!strcmp(argv[i], "-i"))
             set_init = true;
 
