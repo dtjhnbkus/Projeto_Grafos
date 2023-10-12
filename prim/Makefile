@@ -1,8 +1,8 @@
 CC= g++
 
-prim = prim.cpp
-all:prim.exe
+Prim = Prim.cpp
+all:Prim.exe
 
-prim.exe: 
-	$(CC) -Wall $(prim) -o prim.bin
+Prim.exe: 
+	$(CC) -Wall $(Prim) -o Prim.bin
 

@@ -1,8 +1,8 @@
 CC= g++
 
-kruskal = kruskal.cpp
+Kruskal = Kruskal.cpp
 
-all: kruskal.exe
-kruskal.exe: 
-	$(CC) -Wall $(kruskal) -o kruskal.bin	
+all: Kruskal.exe
+Kruskal.exe: 
+	$(CC) -Wall $(Kruskal) -o Kruskal.bin	
 

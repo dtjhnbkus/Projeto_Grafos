@@ -1,8 +1,8 @@
 CC= g++
 
-dijkstra = dijkstra.cpp
+Dijkstra = Dijkstra.cpp
 
-all: dijkstra.exe
-dijkstra.exe: 
-	$(CC) -Wall $(dijkstra) -o dijkstra.bin	
+all: Dijkstra.exe
+Dijkstra.exe: 
+	$(CC) -Wall $(Dijkstra) -o Dijkstra.bin	
 
