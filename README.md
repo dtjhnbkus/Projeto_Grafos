@@ -8,10 +8,10 @@ Diogo Tallys da Mota Amorim
 
 | Algoritmo | Diretório |
 | --------- | ----- |
-| Dijkstra  | dijkstra |
-| Prim      | prim |
-| Kruskal | kruskal |
-| Floyd_Warshall | floyd-warshall |
+|  Dijkstra  | dijkstra |
+|  Prim      | prim |
+|  Kruskal | kruskal |
+|  Floyd_Warshall | floyd-warshall |
 
 # Compilando e executando
 
