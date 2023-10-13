@@ -4,7 +4,7 @@ Universidade Federal de Alagoas - UFAL
 
 Diogo Tallys da Mota Amorim
 
-## Implementação dos algoritmos de teoria dos grafos
+## Implementação dos algoritmos
 
 | Algoritmo | Diretório |
 | --------- | ----- |
