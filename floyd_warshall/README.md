@@ -28,7 +28,7 @@ vn vn pn
 ## Saída do algoritmo
 
 * O formato será em ``vértice``:``valor até chegar nele`` partindo do vértice informado pelo comando -i;
-* Caso não seja informado o vértice pelo comando -i, o mesmo vai utilizar o vertice 1 para o algortimo.
+* Caso não seja informado o vértice pelo comando -i, o mesmo vai imprimir o caminho de todos os vertices no formato indicado acima.
 
 ## Exemplo de execução
 
