@@ -41,7 +41,7 @@ No diretorio principal do projeto digite:
 
 Saída no terminal:
 ```ubuntu
-1:0 2:5 3:3 4:3 5:1 6:2 
+1:0 2:3 3:4 4:2 5:10 6:3 
 ```
 
 Para salvar em um arquivo:
