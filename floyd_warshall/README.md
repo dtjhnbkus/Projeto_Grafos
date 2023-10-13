@@ -1,13 +1,12 @@
 # Algoritmo de Floyd_Warshal Ford
 
-O Algoritmo de Floyd_Warshall tem a função de ser um algoritmo de busca de caminho mínimo em um digrafo, por sua vez utilizando números negativos.
+O Algoritmo de Floyd_Warshall tem a função de ser um algoritmo de busca de caminho mínimo dentre todos os vertices em um grafo.
 
 ## Compilação e execução
 
 * Sistema Operacional: Ubuntu;
 * Para compilar é necessário está no diretório ```Floyd_Warshall``` e digitar ```ubuntu```;
-* As entradas testadas estão no diretório ```Floyd_Warshall/input/```;
-* As saídas estão no diretório ```Floyd_Warshall/output/```.
+* As entradas testadas estão no diretório ```Floyd_Warshall/inputs/```;
 
 ## Entrada do algoritmo
 
@@ -36,7 +35,7 @@ vn vn pn
 No diretorio principal do projeto digite:
 
 ```ubuntu
-./Floyd_Warshall.bin -f inputs/input-0.mtx -i 1
+./floyd_Warshall.bin -f inputs/input-0.mtx -i 1
 ```
 
 Saída no terminal:
@@ -47,6 +46,6 @@ Saída no terminal:
 Para salvar em um arquivo:
 
 ```ubuntu
-./Floyd_Warshall.bin -f inputs/input-0.mtx -o saida.txt -i 1
+./floyd_Warshall.bin -f inputs/input-0.mtx -o saida.txt -i 1
 
 ```
