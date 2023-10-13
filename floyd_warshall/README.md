@@ -1,6 +1,6 @@
 # Algoritmo de Floyd Warshall
 
-O Algoritmo de Floyd_Warshall tem a função de ser um algoritmo de busca de caminho mínimo dentre todos os vertices em um grafo.
+O Algoritmo de Floyd Warshall tem a função de ser um algoritmo de busca de caminho mínimo dentre todos os vertices em um grafo.
 
 ## Compilação e execução
 
