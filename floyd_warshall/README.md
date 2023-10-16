@@ -5,8 +5,8 @@ O Algoritmo Floyd Warshall tem a função de ser um algoritmo de busca de caminh
 ## Compilação e execução
 
 * Sistema Operacional: Ubuntu;
-* Para compilar é necessário está no diretório ```floyd_Warshall``` e digitar ```ubuntu```;
-* As entradas testadas estão no diretório ```floyd_Warshall/inputs/```;
+* Para compilar é necessário está no diretório ```floyd_warshall``` e digitar ```ubuntu```;
+* As entradas testadas estão no diretório ```floyd_warshall/inputs/```;
 
 ## Entrada do algoritmo
 
