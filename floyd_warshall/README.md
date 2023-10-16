@@ -35,7 +35,7 @@ vn vn pn
 No diretorio principal do projeto digite:
 
 ```ubuntu
-./floyd_Warshall.bin -f inputs/input-0.mtx -i 1
+./floyd_warshall.bin -f inputs/input-0.mtx -i 1
 ```
 
 Saída no terminal:
@@ -46,6 +46,6 @@ Saída no terminal:
 Para salvar em um arquivo:
 
 ```ubuntu
-./floyd_Warshall.bin -f inputs/input-0.mtx -o saida.txt -i 1
+./floyd_warshall.bin -f inputs/input-0.mtx -o saida.txt -i 1
 
 ```
